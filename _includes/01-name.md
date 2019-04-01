@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Big header
+## Smaller header
+### my name
+Bobby Schmidt
